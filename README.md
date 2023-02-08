@@ -1,7 +1,5 @@
 ### This is a library management system project.
 
-#### I developed a web application by using Spring Boot.
-
 ### Tech stack:
   - Spring Boot
   - Spring Data Jpa
